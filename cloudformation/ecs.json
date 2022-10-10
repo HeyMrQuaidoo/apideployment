@@ -1,0 +1,11 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "ApiDeployment"
+	},
+  {
+    "ParameterKey": "SubnetID",
+    "ParameterValue": "subnet-0d92ddc579b9efcf1"
+  }
+]
+

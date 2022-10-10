@@ -1,0 +1,19 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "ApiDeployment"
+	},
+    {
+      "ParameterKey": "AMItoUse",
+      "ParameterValue": "ami-052efd3df9dad4825"
+    },
+    {
+      "ParameterKey": "AMItoUseInstanceType",
+      "ParameterValue": "t2.medium"
+    },
+    {
+      "ParameterKey": "BastianIPAddress",
+      "ParameterValue": "154.100.100.100/32"
+    }
+]
+
